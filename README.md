@@ -1,13 +1,22 @@
 # Automated-Parking-System-using-ML
-"Design and Develop a automated parking system using ML , use pictures to detect the car numbers and allocate a parking spot "
 
-Description :
-  The Automated-Parking_System-Using_ML is used mainly in the Car Parking which having the many parking slots which cannot maintained so we implement the Automated parking system by using ML. By the implementation we can eaily get the information of the car plate license. The data are stored in the Database parking having many 
-  solts by the Database we can known that which Vechile are parked. How many Slots are not Filled by detection of the Car_Images. We can easily allocated a new entry and of car parking by that data stored. 
+Statement:-
+
+Design and Develop a automated parking system using ML , use pictures to detect the car numbers and allocate a parking spot 
+
+Description :-
+
+  The Automated-Parking_System-Using_ML is used mainly in the Car Parking which having the many parking slots which cannot maintained so we implement the Automated parking system by using ML. 
+  By the implementation we can eaily get the information of the car plate license. The data are stored in the Database parking having many 
+  solts by the Database we can known that which Vechile are parked.
+  How many Slots are not Filled by detection of the Car_Images. We can easily allocated a new entry and of car parking by that data stored. 
 
 Features:
+
 1.Image Based Car Parking.
+
 2.Smart Car Parking System.
+
 2.Identifying the  Number of Car Parked in the slot.
 
 The Modules Used in the Python (Jupyter Notebook):
@@ -28,8 +37,9 @@ The Modules Used in the Python (Jupyter Notebook):
 Project Buddys: 
  1. H R Abhinandan [Shridevi Institue of Engineering & Technology]
  2. Greeshma L [B N M Institue of Technology]
+ 3. Harish G R [Sambhram Institue of Technology]
 
-
+Snapshots:-
 
 
 
